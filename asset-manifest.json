@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recommender-project/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/recommender-project/static/js/main.7ffc4523.chunk.js",
+    "main.js.map": "/recommender-project/static/js/main.7ffc4523.chunk.js.map",
+    "runtime-main.js": "/recommender-project/static/js/runtime-main.866404ac.js",
+    "runtime-main.js.map": "/recommender-project/static/js/runtime-main.866404ac.js.map",
+    "static/js/2.ee6c501f.chunk.js": "/recommender-project/static/js/2.ee6c501f.chunk.js",
+    "static/js/2.ee6c501f.chunk.js.map": "/recommender-project/static/js/2.ee6c501f.chunk.js.map",
+    "static/js/3.79206141.chunk.js": "/recommender-project/static/js/3.79206141.chunk.js",
+    "static/js/3.79206141.chunk.js.map": "/recommender-project/static/js/3.79206141.chunk.js.map",
+    "index.html": "/recommender-project/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/recommender-project/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.ee6c501f.chunk.js.LICENSE.txt": "/recommender-project/static/js/2.ee6c501f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.866404ac.js",
+    "static/js/2.ee6c501f.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.7ffc4523.chunk.js"
+  ]
+}
